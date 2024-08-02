@@ -1,9 +1,11 @@
-
+  
 <h1 align="center">Hi 👋, I'm Mohammad Anzil</h1>
 <h3 align="center">A passionate Azure Devops Enthusiast from India</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/070283c3-b20c-4b16-b131-49da1aec95f5" />
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/03970b90-4c79-4ec0-9458-0cd1488dbe4d" />
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anzilparviz29&label=Profile%20views&color=0e75b6&style=flat" alt="anzilparviz29" /> </p>
