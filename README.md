@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Anzil</h1>
 <h3 align="center">A passionate Azure Devops Enthusiast from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://csg1003200373a2f96b.blob.core.windows.net/swar/coworking-male-programmer-writing-program-code.gif">
+
+![coworking-male-programmer-writing-program-code](https://github.com/user-attachments/assets/ca28386a-9aa3-4ca6-894b-a45dac44d6c5)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anzilparviz29&label=Profile%20views&color=0e75b6&style=flat" alt="anzilparviz29" /> </p>
 
