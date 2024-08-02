@@ -3,7 +3,8 @@
 <h3 align="center">A passionate Azure Devops Enthusiast from India</h3>
 
 
-![coworking-male-programmer-writing-program-code](https://github.com/user-attachments/assets/ca28386a-9aa3-4ca6-894b-a45dac44d6c5)
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/070283c3-b20c-4b16-b131-49da1aec95f5" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anzilparviz29&label=Profile%20views&color=0e75b6&style=flat" alt="anzilparviz29" /> </p>
 
