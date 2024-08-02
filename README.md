@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Azure Devops Enthusiast from India</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://csg1003200373a2f96b.blob.core.windows.net/swar/coworking-male-programmer-writing-program-code.gif" />
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/03970b90-4c79-4ec0-9458-0cd1488dbe4d" />
 
 
 
